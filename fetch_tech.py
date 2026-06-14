@@ -15,7 +15,7 @@ RSS_FEEDS = [
 
 OUTPUT_FILE = "data.json"
 MAX_CANDIDATES = 25
-MAX_ITEMS = 5
+MAX_ITEMS = 10
 
 
 def fetch_rss_titles(url: str) -> List[str]:
@@ -54,7 +54,7 @@ def summarize_with_gemini(candidates: List[str]) -> List[Dict[str, str]]:
 
     prompt = (
         "Tu es un assistant éditorial tech. "
-        "À partir de la liste de titres suivante, sélectionne les 5 sujets les plus importants du moment, "
+        "À partir de la liste de titres suivante, sélectionne les 10 sujets les plus importants du moment, "
         "traduis les titres en français si nécessaire, et produis un résumé concis (1-2 phrases) en français. "
         "Retourne STRICTEMENT un JSON valide sous forme de tableau avec exactement cette structure: "
         "[{\"title\": \"...\", \"summary\": \"...\", \"source\": \"...\"}]. "
