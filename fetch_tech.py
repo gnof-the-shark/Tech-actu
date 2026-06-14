@@ -16,6 +16,18 @@ RSS_FEEDS = [
 OUTPUT_FILE = "data.json"
 MAX_CANDIDATES = 25
 MAX_ITEMS = 10
+DEFAULT_CANDIDATES = [
+    "IA générative et assistants multimodaux",
+    "Nouveautés cloud et infrastructure",
+    "Cybersécurité et vulnérabilités critiques",
+    "Avancées open source et frameworks web",
+    "Tendances mobiles et applications",
+    "Robotique et automatisation industrielle",
+    "Semi-conducteurs et puces IA",
+    "Réalité augmentée et virtuelle",
+    "Régulation technologique et conformité",
+    "Green IT et sobriété numérique",
+]
 
 
 def fetch_rss_titles(url: str) -> List[str]:
@@ -99,6 +111,34 @@ def fallback_items(candidates: List[str]) -> List[Dict[str, str]]:
     ]
 
 
+def ensure_minimum_items(items: List[Dict[str, str]], candidates: List[str]) -> List[Dict[str, str]]:
+    final_items = list(items[:MAX_ITEMS])
+    missing = MAX_ITEMS - len(final_items)
+    if missing <= 0:
+        return final_items
+
+    reserve_titles = [title for title in candidates if title not in {i["title"] for i in final_items}]
+    for title in reserve_titles[:missing]:
+        final_items.append(
+            {
+                "title": title,
+                "summary": "Actualité technologique à surveiller aujourd'hui.",
+                "source": "Flux RSS",
+            }
+        )
+
+    while len(final_items) < MAX_ITEMS:
+        final_items.append(
+            {
+                "title": f"Veille technologique #{len(final_items) + 1}",
+                "summary": "Mise à jour automatique en attente de nouvelles sources.",
+                "source": "Tech Actu",
+            }
+        )
+
+    return final_items
+
+
 def main() -> None:
     all_candidates: List[str] = []
 
@@ -112,13 +152,15 @@ def main() -> None:
     deduped = list(dict.fromkeys(all_candidates))[:MAX_CANDIDATES]
 
     if not deduped:
-        raise RuntimeError("Aucun sujet récupéré depuis les flux RSS.")
+        print("Aucun sujet RSS récupéré, utilisation des sujets par défaut.")
+        deduped = DEFAULT_CANDIDATES.copy()
 
     try:
         items = summarize_with_gemini(deduped)
     except Exception as exc:  # noqa: BLE001
         print(f"Erreur Gemini, fallback activé: {exc}")
         items = fallback_items(deduped)
+    items = ensure_minimum_items(items, deduped)
 
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
