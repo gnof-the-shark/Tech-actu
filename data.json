@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-06-14T19:58:20.664243+00:00",
+  "updated_at": "2026-06-14T21:06:43.154846+00:00",
   "items": [
     {
-      "title": "Chaosnet",
+      "title": "Chaosnet (1981)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Yserver: A modern X11 server written in Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -13,11 +18,6 @@
     },
     {
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Dillo directory – Directory of useful sites that work reasonably well on Dillo",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Perlisisms",
+      "title": "Perlisisms (1982)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "No, everyone is not using AI for everything",
+      "title": "Not everyone is using AI for everything",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
