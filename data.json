@@ -1,13 +1,28 @@
 {
-  "updated_at": "2026-06-17T05:17:18.170843+00:00",
+  "updated_at": "2026-06-17T10:05:55.170589+00:00",
   "items": [
     {
-      "title": "NetNewsWire Status",
+      "title": "Most of the CVE-2026-4020 attackers are the same client",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+      "title": "Hacker News but for Independent Blogs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The founder's playbook: Building an AI-native startup",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "From Chesterton's fence to Chesterton's gap",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,12 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "NLnet announces funding for 67 more open-source projects",
+      "title": "Wolfram Language and Mathematica version 15",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Frood, an Alpine Initramfs NAS (2024)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Apple is about to make Hide My Email useless",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
