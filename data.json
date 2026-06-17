@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-17T10:05:55.170589+00:00",
+  "updated_at": "2026-06-17T14:01:14.619481+00:00",
   "items": [
+    {
+      "title": "Want your images back? Sure... That'll be $5!",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "RFC 10008: The new HTTP Query Method",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Most of the CVE-2026-4020 attackers are the same client",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,42 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "From Chesterton's fence to Chesterton's gap",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Wolfram Language and Mathematica version 15",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Humiliating IIS servers for fun and jail time",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "GrapheneOS has been ported to Android 17",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "title": "GLM 5.2 Performance Benchmarks",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
