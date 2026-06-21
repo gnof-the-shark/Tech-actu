@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-06-21T16:55:12.859032+00:00",
+  "updated_at": "2026-06-21T18:13:39.355111+00:00",
   "items": [
     {
-      "title": "AI Has Broken Hiring",
+      "title": "Health insurance claim denial rates range from 13% to 35% by insurer",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Code duplication is far cheaper than the wrong abstraction",
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The early hiring funnel is now breaking on both ends",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,32 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "title": "Who owns your ATProto identity?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The case against geometric algebra (2024)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Google Hits 50% IPv6",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
+      "title": "Identity verification on Claude",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
