@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-06-21T07:08:15.524677+00:00",
+  "updated_at": "2026-06-21T10:46:57.361244+00:00",
   "items": [
     {
-      "title": "The 100k Whys of AI",
+      "title": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Google Hits 50% IPv6",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Windows UI evolution: Clicking an unassociated file",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,11 +37,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Armstrong Effect",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Developers don't understand CORS (2019)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -38,16 +48,6 @@
     },
     {
       "title": "Project Fetch: Phase Two",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Epoll vs. io_uring in Linux",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Renting a sewing machine from the library",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
