@@ -1,13 +1,28 @@
 {
-  "updated_at": "2026-06-21T15:10:51.230231+00:00",
+  "updated_at": "2026-06-21T16:55:12.859032+00:00",
   "items": [
     {
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "title": "AI Has Broken Hiring",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Smashing the NIMBYs created modern capitalism",
+      "title": "Code duplication is far cheaper than the wrong abstraction",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "A 3D voxel game engine written in APL",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Developers don't understand CORS (2019)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Epoll vs. io_uring in Linux",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
