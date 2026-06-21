@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-06-21T10:46:57.361244+00:00",
+  "updated_at": "2026-06-21T12:59:42.287098+00:00",
   "items": [
     {
-      "title": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "title": "100 Greatest Bird Names of All Time",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,17 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Building reliable agentic AI systems",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Your brain was never designed for this much bad news",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "When I reject AI code even if it works",
+      "title": "Project Fetch: Phase Two",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Project Fetch: Phase Two",
+      "title": "Epoll vs. io_uring in Linux",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
