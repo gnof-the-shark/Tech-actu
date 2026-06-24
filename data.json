@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-24T22:40:23.817493+00:00",
+  "updated_at": "2026-06-24T23:46:43.385265+00:00",
   "items": [
+    {
+      "title": "PostgreSQL Is Enough",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Elastic lays off 7% of employees",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -27,6 +32,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Big AI labs are hiring philosophers",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "The Xteink X4 E-Ink Reader",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "I taught a bucket to speak Git",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "There are a few things that I look back on as my mistakes in the early days",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
