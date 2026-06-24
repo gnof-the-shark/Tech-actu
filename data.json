@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-06-24T19:22:35.161302+00:00",
+  "updated_at": "2026-06-24T21:11:30.193087+00:00",
   "items": [
+    {
+      "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Thomann takes legal action against Fender",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,37 +32,22 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Big AI labs are hiring philosophers",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "The Xteink X4 E-Ink Reader",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
+      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "I taught a bucket to speak Git",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
