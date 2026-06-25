@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-06-25T18:26:27.856749+00:00",
+  "updated_at": "2026-06-25T20:34:04.035821+00:00",
   "items": [
+    {
+      "title": "The Doorman's Fallacy in Action",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Besimple AI (YC P25) Is Hiring",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Deno 2.9",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,7 +22,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "A Herculaneum scroll has been read for the first time",
+      "title": "An entire Herculaneum scroll has been read for the first time",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Physicists Track and Trap the Elusive Neutrino",
+      "title": "How physicists track and trap the elusive neutrino",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Political bias in AI: Where the AI models stand",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
