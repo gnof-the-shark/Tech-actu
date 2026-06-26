@@ -1,13 +1,33 @@
 {
-  "updated_at": "2026-06-26T21:40:47.746411+00:00",
+  "updated_at": "2026-06-26T22:57:12.067179+00:00",
   "items": [
+    {
+      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Nationwide Backlash Against Cameras Watching Your Car",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -28,26 +48,6 @@
     },
     {
       "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Webradio server – broadcasts audio source to clients",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
