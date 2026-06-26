@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-26T01:58:16.628317+00:00",
+  "updated_at": "2026-06-26T06:06:43.705640+00:00",
   "items": [
+    {
+      "title": "Libre Barcode Project",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "A data race that doesn't compile",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,22 +22,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Migrating from Proxmox to NixOS and Incus",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
