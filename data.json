@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-06-27T06:09:25.624553+00:00",
+  "updated_at": "2026-06-27T08:50:00.231217+00:00",
   "items": [
     {
+      "title": "Is America becoming a gerontocracy?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "IBM MCGA Gate Array Reverse Engineering",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "OpenTTD 16.0-Beta1",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
