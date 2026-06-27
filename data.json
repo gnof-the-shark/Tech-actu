@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T15:39:25.468789+00:00",
+  "updated_at": "2026-06-27T16:43:25.931976+00:00",
   "items": [
     {
       "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
@@ -13,6 +13,11 @@
     },
     {
       "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "If you can't hold it, you don't own it",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Fintech Engineering Handbook",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
