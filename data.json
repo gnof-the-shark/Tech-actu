@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-28T05:58:26.938228+00:00",
+  "updated_at": "2026-06-28T08:46:08.467162+00:00",
   "items": [
+    {
+      "title": "Can China build its own ASML?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Bashblog – a single bash script to create blogs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,12 +27,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "title": "Feds Killed Polestar and Spared Volvo",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Turning music into a chore is how I became a musician (2022)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "What Ozempic does to the gut-brain axis",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
