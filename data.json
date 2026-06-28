@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T20:36:56.994584+00:00",
+  "updated_at": "2026-06-28T21:42:59.537074+00:00",
   "items": [
     {
       "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
@@ -12,12 +12,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,12 +22,22 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Do LLMs pass the mirror test?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Librepods: AirPods liberated from Apple's ecosystem",
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Librepods: AirPods liberated",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "The cost YAGNI was never about",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
