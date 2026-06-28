@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-28T10:57:14.561148+00:00",
+  "updated_at": "2026-06-28T12:13:09.078117+00:00",
   "items": [
+    {
+      "title": "More evidence of life on Mars but still no life",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "DLL that was not present in memory despite not being formally unloaded",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,16 +48,6 @@
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
