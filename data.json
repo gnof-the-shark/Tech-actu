@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-28T08:46:08.467162+00:00",
+  "updated_at": "2026-06-28T10:57:14.561148+00:00",
   "items": [
     {
-      "title": "Can China build its own ASML?",
+      "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,17 +17,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Marfa Public Radio Puts You to Sleep",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Feds Killed Polestar and Spared Volvo",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +38,16 @@
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
