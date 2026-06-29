@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-29T21:55:34.876430+00:00",
+  "updated_at": "2026-06-29T22:44:43.215937+00:00",
   "items": [
+    {
+      "title": "Is It Out Yet?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,6 +13,11 @@
     },
     {
       "title": "JumpServer: Open-Source Privileged Access Management",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": ".garden TLD's change to a bad neighborhood",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "A native graphical shell for SSH",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Working With AI: A concrete example",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
