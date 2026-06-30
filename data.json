@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-06-29T23:49:12.683927+00:00",
+  "updated_at": "2026-06-30T01:56:56.861872+00:00",
   "items": [
+    {
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -28,26 +48,6 @@
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A native graphical shell for SSH",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
