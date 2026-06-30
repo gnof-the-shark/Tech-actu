@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-06-30T01:56:56.861872+00:00",
+  "updated_at": "2026-06-30T06:03:07.386036+00:00",
   "items": [
+    {
+      "title": "Popping the GPU Bubble",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Study suggests most Americans would be healthier without daylight saving time",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Exploring PDP-1 Lisp (1960)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "title": "Memory Safe Context Switching",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,17 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
