@@ -1,18 +1,33 @@
 {
-  "updated_at": "2026-07-01T18:16:52.763520+00:00",
+  "updated_at": "2026-07-01T20:15:52.649791+00:00",
   "items": [
     {
-      "title": "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
+      "title": "Fable 5 Is Back",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Claude Fable 5 Promotional Access",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "What to Learn to Be a Graphics Programmer",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "My OSCP Pentesting Cheatsheet",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE",
+      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Are readers generating fiction with AI models?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Solid and Clean Code never felt solid or clean to me",
+      "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
