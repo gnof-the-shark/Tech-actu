@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-02T14:54:57.369560+00:00",
+  "updated_at": "2026-07-02T16:31:06.432079+00:00",
   "items": [
+    {
+      "title": "Show HN: ZkGolf",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "How to ask for help from people who don't know you",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Winamp Skin Museum",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
