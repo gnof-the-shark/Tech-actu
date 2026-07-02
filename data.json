@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-02T19:53:29.811318+00:00",
+  "updated_at": "2026-07-02T20:51:31.495071+00:00",
   "items": [
+    {
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Vulkan is now available on NetBSD",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Podman v6.0.0",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
