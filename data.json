@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-07-02T16:31:06.432079+00:00",
+  "updated_at": "2026-07-02T18:16:53.927040+00:00",
   "items": [
     {
-      "title": "Show HN: ZkGolf",
+      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The US Government Is Now a Shareholder in 26 Companies",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,7 +22,17 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "No LLM Code in Dependencies",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
