@@ -1,13 +1,33 @@
 {
-  "updated_at": "2026-07-02T18:16:53.927040+00:00",
+  "updated_at": "2026-07-02T19:53:29.811318+00:00",
   "items": [
     {
-      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
+      "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "The US Government Is Now a Shareholder in 26 Companies",
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Exapunks (2018)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Postgres transactions are a distributed systems superpower",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Vulkan is now available on NetBSD",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "No LLM Code in Dependencies",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "title": "Podman v6.0.0",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
