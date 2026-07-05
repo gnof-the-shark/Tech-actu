@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-07-05T22:45:24.851412+00:00",
+  "updated_at": "2026-07-05T23:52:22.202972+00:00",
   "items": [
     {
+      "title": "Connections in Math: the two kinds of random",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Composite Video on the NES: Why's it so wobbly?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Pint in England",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Dependencies should be fetched directly from VCS",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Osint tool that finds exposed files on domains",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
