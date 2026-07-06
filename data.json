@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-06T22:37:51.942151+00:00",
+  "updated_at": "2026-07-06T23:41:43.845487+00:00",
   "items": [
+    {
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Vessel",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Not everything should cost a token: the case for deterministic AI",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Full Writeup of the Windows GDID",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,32 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Learning to code is still worthwhile",
+      "title": "GLM 5.2 and the coming AI margin collapse",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "M/PC – A Concatenative OS",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Price per 1M tokens is meaningless",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Python 3.14 compiled to metal – no interpreter",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "CoMaps – FOSS Offline Maps",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
