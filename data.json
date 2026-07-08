@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T21:31:23.306146+00:00",
+  "updated_at": "2026-07-08T22:36:31.266941+00:00",
   "items": [
     {
-      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "title": "Separating signal from noise in coding evaluations",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Fable is not a useful model",
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,11 +22,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Multigres Supports Listen/Notify Across Pooled Connections",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -37,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+      "title": "Almost Always Unsigned",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Grok 4.5",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
