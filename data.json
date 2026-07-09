@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-07-09T01:25:41.567333+00:00",
+  "updated_at": "2026-07-09T05:46:31.571233+00:00",
   "items": [
     {
-      "title": "A software engineering interview question I like: computing the median",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What's slowing down the AI buildout",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Ergo: Long Form Philosophy Lectures",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "I think I have LLM burnout",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,22 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "FAANG Simulator",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
