@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-12T07:13:06.088443+00:00",
+  "updated_at": "2026-07-12T09:16:20.619294+00:00",
   "items": [
+    {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Why Write Code in 2026",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,11 +13,6 @@
     },
     {
       "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Why are US consumers so angry? It's not just high prices",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,16 +27,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A Erlang style pure Scheme Webserver and further",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "A pure scheme web programming tool",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -47,7 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "title": "How Doctors die. It’s not like the rest of us (2016)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
