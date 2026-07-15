@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-07-15T18:42:31.795315+00:00",
+  "updated_at": "2026-07-15T19:58:54.829198+00:00",
   "items": [
     {
-      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "title": "Duskers, the scary command line game, is getting a sequel",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+      "title": "Why I Left Google DeepMind",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,16 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "What designing 54 computer science cards taught me about graphic design",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Open-source memory for coding agents, synced over SSH",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Codex Micro",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
