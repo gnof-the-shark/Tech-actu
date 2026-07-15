@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-07-15T19:58:54.829198+00:00",
+  "updated_at": "2026-07-15T20:57:09.540187+00:00",
   "items": [
     {
-      "title": "Duskers, the scary command line game, is getting a sequel",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Why I Left Google DeepMind",
+      "title": "Voxatron",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Codex Micro",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
