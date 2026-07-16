@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T14:50:54.492245+00:00",
+  "updated_at": "2026-07-16T16:07:39.193501+00:00",
   "items": [
     {
-      "title": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
+      "title": "Guide to data tools landscape for developers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "How to spend 15 years perfecting a product",
+      "title": "Kimi K3 is now live",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,11 +27,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -42,12 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "I resurrected an 8-year-old dead CSS library and gave it an engine",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
