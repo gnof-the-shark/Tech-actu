@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-16T09:27:54.430728+00:00",
+  "updated_at": "2026-07-16T11:19:35.435594+00:00",
   "items": [
+    {
+      "title": "OnePlus halts operations in USA and Europe",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Netstrings (1997)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,16 +48,6 @@
     },
     {
       "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Bluesky Trademarks ATProto",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
