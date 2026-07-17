@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-17T17:53:59.158449+00:00",
+  "updated_at": "2026-07-17T18:47:11.817140+00:00",
   "items": [
+    {
+      "title": "Learning a few things about running SQLite",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Designing emoji for the way we communicate today",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,16 +48,6 @@
     },
     {
       "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
