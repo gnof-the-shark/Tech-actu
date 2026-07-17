@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-17T15:39:50.340099+00:00",
+  "updated_at": "2026-07-17T16:43:48.213005+00:00",
   "items": [
+    {
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Mozilla: The state of open source AI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -13,6 +18,11 @@
     },
     {
       "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "A Road to Lisp: Which Lisp",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "More Bounce to the Ounce",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "PennyLane is an open-source quantum software platform for quantum",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
