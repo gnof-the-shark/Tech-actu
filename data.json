@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-17T06:59:16.299756+00:00",
+  "updated_at": "2026-07-17T09:06:55.960030+00:00",
   "items": [
+    {
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "EEG shows brain can simultaneous encode two speech streams",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,11 +43,6 @@
     },
     {
       "title": "The Little Book of Reinforcement Learning",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
