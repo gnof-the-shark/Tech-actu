@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-17T18:47:11.817140+00:00",
+  "updated_at": "2026-07-17T19:55:31.214550+00:00",
   "items": [
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "ICE Flight Monitor Interactive Dashboard",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "SpaceX stock drops to a new low and loses $1T in value in a month",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Learning a few things about running SQLite",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,11 +28,6 @@
     },
     {
       "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Designing emoji for the way we communicate today",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "Mozilla: The state of open source AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
