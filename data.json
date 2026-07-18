@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-18T08:10:42.244865+00:00",
+  "updated_at": "2026-07-18T09:44:41.548200+00:00",
   "items": [
+    {
+      "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Show HN: IKEA Complexity Index",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,11 +13,6 @@
     },
     {
       "title": "Regressive JPEGs",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
