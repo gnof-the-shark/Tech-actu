@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-19T10:43:47.551169+00:00",
+  "updated_at": "2026-07-19T11:46:37.888522+00:00",
   "items": [
+    {
+      "title": "The death and rebirth of my home server",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen 3.8 Max",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Claude Code uses Bun written in Rust now",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Mirror your GitHub repos to tangled.org automatically",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "The Mighty Big Array of Finn Jensen LA8YB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ollama: All Aboard Open Models",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
