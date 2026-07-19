@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-07-19T09:16:20.311669+00:00",
+  "updated_at": "2026-07-19T10:43:47.551169+00:00",
   "items": [
     {
+      "title": "Claude Code uses Bun written in Rust now",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen 3.8 Max Preview",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Half a Second – a book about the XZ backdoor",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Qwen3.8 is launching and going open-weight soon",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Mirror your GitHub repos to tangled.org automatically",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Mighty Big Array of Finn Jensen LA8YB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -12,42 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "title": "Ollama: All Aboard Open Models",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "I built a browser-based P2P file transfer tool using WebRTC",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Deepsec",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Codex Resets",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
