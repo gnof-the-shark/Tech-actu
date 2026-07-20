@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-20T07:49:14.464049+00:00",
+  "updated_at": "2026-07-20T10:36:30.498968+00:00",
   "items": [
+    {
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,7 +22,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Power companies are using eminent domain to seize land for data centers",
+      "title": "When can a power company take your land for data center infrastructure?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,11 +43,6 @@
     },
     {
       "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
