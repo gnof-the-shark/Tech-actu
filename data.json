@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-21T21:51:10.378147+00:00",
+  "updated_at": "2026-07-21T22:41:43.854321+00:00",
   "items": [
+    {
+      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +17,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Unified power-user environment and knowledge-representation in Common Lisp",
+      "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "FreeInk: Open ecosystem for e-readers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI Agent – TRMNL",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
