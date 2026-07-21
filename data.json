@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-07-20T23:33:52.912176+00:00",
+  "updated_at": "2026-07-21T01:02:09.110006+00:00",
   "items": [
-    {
-      "title": "The creepiest 'sales demo' of all time",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "I wrote an bash enumerator because I was sick of xargs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Kimi Work",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
