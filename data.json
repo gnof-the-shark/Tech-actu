@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-21T04:32:34.157211+00:00",
+  "updated_at": "2026-07-21T07:14:35.341052+00:00",
   "items": [
+    {
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,12 +22,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Jane Street: Incremental",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Is surveillance risk chilling your online speech?",
+      "title": "Incremental – A library for incremental computations",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +37,17 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "I wrote an bash enumerator because I was sick of xargs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
