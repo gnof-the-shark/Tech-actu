@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-22T04:34:33.260633+00:00",
+  "updated_at": "2026-07-22T07:15:56.043041+00:00",
   "items": [
+    {
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Late.sh – a command-line Clubhouse for computer people",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "A flaky test exposed a Redis client use-after-free",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "It's a shame what's happened to radio",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -32,22 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A digestion of the Jacobian conjecture counterexample",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
