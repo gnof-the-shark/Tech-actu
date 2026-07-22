@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-22T09:39:17.887409+00:00",
+  "updated_at": "2026-07-22T11:27:54.051347+00:00",
   "items": [
     {
-      "title": "Codeberg bans vibe coded projects",
+      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -18,11 +18,6 @@
     },
     {
       "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Tesla Balance Bike",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
