@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-22T17:58:48.711128+00:00",
+  "updated_at": "2026-07-22T19:10:28.422924+00:00",
   "items": [
+    {
+      "title": "Everyone Should Know SIMD",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,6 +13,11 @@
     },
     {
       "title": "GigaToken: ~1000x faster Language model tokenization",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
