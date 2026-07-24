@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-07-24T19:06:59.938310+00:00",
+  "updated_at": "2026-07-24T20:40:37.498258+00:00",
   "items": [
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "I got into YC by hacking it",
+      "title": "I got into YC (Startup School) by hacking it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Online Historical Encyclopaedia of Programming Languages",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The rise and fall of language diversity through the Holocene",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
