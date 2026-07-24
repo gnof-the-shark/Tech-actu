@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-23T23:45:10.345870+00:00",
+  "updated_at": "2026-07-24T01:18:21.973134+00:00",
   "items": [
+    {
+      "title": "The Visual 6502",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,16 +13,6 @@
     },
     {
       "title": "98.css",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Tell HN: Namecheap gave my account to an unverified third party",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +32,22 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Geekbench 7",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "What happened to TheNumbers.com",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
