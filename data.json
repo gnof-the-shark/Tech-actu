@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-07-25T20:28:53.100170+00:00",
+  "updated_at": "2026-07-25T21:28:47.816076+00:00",
   "items": [
-    {
-      "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Engineering management after the cost of code collapsed",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
