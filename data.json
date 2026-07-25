@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-25T08:56:25.526424+00:00",
+  "updated_at": "2026-07-25T10:20:13.197274+00:00",
   "items": [
+    {
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Android May Soon Restrict On-Device ADB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Postgres LISTEN/NOTIFY actually scales",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Claude Opus 5",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
