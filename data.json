@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-25T11:37:53.460735+00:00",
+  "updated_at": "2026-07-25T12:38:16.134784+00:00",
   "items": [
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "MouthPad: A Tongue-Controlled Touchpad",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
