@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-26T17:01:20.714458+00:00",
+  "updated_at": "2026-07-26T18:11:43.725774+00:00",
   "items": [
+    {
+      "title": "How to Write English Prose",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "What if LLMs escape through inferences itself? This is fiction. For now",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Go Analysis Framework: modular static analysis by go team",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
