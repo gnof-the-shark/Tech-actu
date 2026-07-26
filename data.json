@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-26T07:28:41.634779+00:00",
+  "updated_at": "2026-07-26T09:36:03.872203+00:00",
   "items": [
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -27,6 +32,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Git rebase -I is not that scary",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Systems and Delays",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Clinical failure rates over the decades: yikes",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
