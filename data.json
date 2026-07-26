@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-07-26T11:05:00.154516+00:00",
+  "updated_at": "2026-07-26T12:16:41.593196+00:00",
   "items": [
     {
-      "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+      "title": "An OpenAI model left notes about how to evade containment; we need more details",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Systemd Linger",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -18,11 +23,6 @@
     },
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
