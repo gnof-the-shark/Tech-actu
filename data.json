@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-27T04:51:56.065539+00:00",
+  "updated_at": "2026-07-27T08:18:58.980437+00:00",
   "items": [
+    {
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "PGSimCity - How PostgreSQL Works",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -32,17 +42,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How to Block Some of the Bots",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
