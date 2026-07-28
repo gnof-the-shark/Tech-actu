@@ -1,18 +1,33 @@
 {
-  "updated_at": "2026-07-28T18:45:52.522429+00:00",
+  "updated_at": "2026-07-28T20:09:36.883300+00:00",
   "items": [
+    {
+      "title": "uv 0.12.0",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Donate to GrapheneOS",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Deflock Casa Grande",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "MCP 2026-07-28 Specification: transport going stateless",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Scientific computing in the age of agentic AI",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,22 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Xenharmlib (music theory library) adds support for Just Intonation",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "You Could Have Come Up with Kimi Delta Attention",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How Do I Profile eBPF Code?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+      "title": "A walk through of the DeltaNet family of linear attention variants",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
