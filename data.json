@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-07-28T17:04:07.688886+00:00",
+  "updated_at": "2026-07-28T18:45:52.522429+00:00",
   "items": [
+    {
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Xenharmlib (music theory library) adds support for Just Intonation",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,37 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Zig's Incremental Compilation Internals",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "So, you want to make a game engine (2023)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Setup Script Should Support Git Worktrees",
+      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
