@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-29T07:23:31.574022+00:00",
+  "updated_at": "2026-07-29T10:13:35.250600+00:00",
   "items": [
+    {
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -27,27 +32,22 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Multiple Mouse Cursors in Wayland",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Hubble: Open-source notetaking app for you and your agents",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "ReFrame – The EPaper Camera",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
