@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T17:38:34.435948+00:00",
+  "updated_at": "2026-07-29T18:34:59.309586+00:00",
   "items": [
     {
       "title": "PgDog (YC P25) Is Hiring",
@@ -7,7 +7,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Infrastructure Patterns for Agentic Applications",
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,17 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Superlogical – Mitchell Hashimoto",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Mitchellh starts a new company: Superlogical",
+      "title": "Superlogical",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Anatomy of a frontier-lab agent intrusion",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
