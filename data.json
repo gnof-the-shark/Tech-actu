@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-07-31T20:49:05.753099+00:00",
+  "updated_at": "2026-07-31T21:53:34.199212+00:00",
   "items": [
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "qm",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Severance",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
