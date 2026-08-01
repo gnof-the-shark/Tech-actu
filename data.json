@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T23:49:03.305370+00:00",
+  "updated_at": "2026-08-01T01:23:45.606945+00:00",
   "items": [
     {
       "title": "Loops (YC W22) Is Hiring a Product Educator",
@@ -13,6 +13,11 @@
     },
     {
       "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Nano Banana 2 removed from Google Earth",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "qm",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
