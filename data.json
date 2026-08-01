@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-01T22:11:01.653933+00:00",
+  "updated_at": "2026-08-01T23:11:12.951090+00:00",
   "items": [
     {
-      "title": "The 14 Steps it takes to open my office door with a new phone",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Stuff",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "From MIT: AI financial advice is surprisingly good",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,16 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Google has abandoned Google News?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "CISA Alert: Water Sector PLC Targeting",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
