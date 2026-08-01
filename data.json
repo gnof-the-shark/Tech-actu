@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-01T21:09:09.929447+00:00",
+  "updated_at": "2026-08-01T22:11:01.653933+00:00",
   "items": [
+    {
+      "title": "The 14 Steps it takes to open my office door with a new phone",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Seedance 2.5",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Diátaxis",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,27 +22,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "But can your calculator run Linux?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Google News is just Forrest Gump's shrimp boat now",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Get ready to flee, Americans in ten countries warned",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Cockpit for you Claude Code agents in Rust",
+      "title": "Google has abandoned Google News?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Postmortem for Kernel Soundness Bug #14576",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
