@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-01T09:33:30.622393+00:00",
+  "updated_at": "2026-08-01T11:02:39.237805+00:00",
   "items": [
     {
       "title": "RamenHaus",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "OpenAI's work on Git for large repositories",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Ten Ways NAS Is Getting Enshitified",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -47,7 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "A week in Matrix",
+      "title": "How to Exist",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
