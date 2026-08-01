@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T14:50:13.158715+00:00",
+  "updated_at": "2026-08-01T15:48:28.525775+00:00",
   "items": [
     {
       "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
@@ -7,7 +7,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "How to Spot AI Writing",
+      "title": "The Art of 64-bit Assembly",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -18,6 +23,11 @@
     },
     {
       "title": "Astro Loop",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ten Ways NAS Is Getting Enshitified",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
