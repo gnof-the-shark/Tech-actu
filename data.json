@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-02T14:20:01.570003+00:00",
+  "updated_at": "2026-08-02T15:32:01.288735+00:00",
   "items": [
+    {
+      "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Seinfeld Chronicles: Digital Edition",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Twenty Years of RISC OS Open",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,16 +48,6 @@
     },
     {
       "title": "US Treasury undertakes historic intervention in yen market",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
