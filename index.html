@@ -27,6 +27,32 @@
           class="block w-full rounded-lg border border-slate-700 bg-slate-950 px-3 py-2 text-sm text-slate-100 file:mr-4 file:rounded-md file:border-0 file:bg-cyan-500 file:px-3 file:py-2 file:text-sm file:font-semibold file:text-slate-950 hover:file:bg-cyan-400"
         />
 
+        <div class="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
+          <div>
+            <label for="adobeUser" class="mb-1 block text-xs uppercase tracking-wide text-slate-300">Adobe ID / Email</label>
+            <input
+              id="adobeUser"
+              type="text"
+              autocomplete="username"
+              class="block w-full rounded-lg border border-slate-700 bg-slate-950 px-3 py-2 text-sm text-slate-100"
+              placeholder="votre@email.com"
+            />
+          </div>
+          <div>
+            <label for="adobePass" class="mb-1 block text-xs uppercase tracking-wide text-slate-300">Mot de passe</label>
+            <input
+              id="adobePass"
+              type="password"
+              autocomplete="current-password"
+              class="block w-full rounded-lg border border-slate-700 bg-slate-950 px-3 py-2 text-sm text-slate-100"
+              placeholder="••••••••"
+            />
+          </div>
+        </div>
+        <p class="mt-2 text-xs text-slate-400">
+          Les identifiants restent dans la session du navigateur (non sauvegardés). Ils sont envoyés uniquement si vous lancez le téléchargement.
+        </p>
+
         <div class="mt-5 flex flex-wrap gap-3">
           <button
             id="downloadBtn"
@@ -57,6 +83,8 @@
       const statusEl = document.getElementById("status");
       const downloadBtn = document.getElementById("downloadBtn");
       const exportBtn = document.getElementById("exportBtn");
+      const adobeUserInput = document.getElementById("adobeUser");
+      const adobePassInput = document.getElementById("adobePass");
 
       let parsedData = null;
 
@@ -192,16 +220,41 @@
         return Promise.resolve("bin");
       }
 
+      function toBase64Utf8(value) {
+        const bytes = new TextEncoder().encode(value);
+        let binary = "";
+        for (const byte of bytes) binary += String.fromCharCode(byte);
+        return btoa(binary);
+      }
+
+      function buildAuthHeaders() {
+        const user = (adobeUserInput.value || "").trim();
+        const pass = adobePassInput.value || "";
+        if (!user || !pass) return {};
+        return { Authorization: `Basic ${toBase64Utf8(`${user}:${pass}`)}` };
+      }
+
       async function tryDownloadFile() {
         if (!parsedData || !parsedData.fulfillmentUrl) {
           setStatus("Aucune URL exploitable détectée dans le fichier ACSM.", "warn");
           return;
         }
 
+        const authHeaders = buildAuthHeaders();
+        if (authHeaders.Authorization && !/^https:\/\//i.test(parsedData.fulfillmentUrl)) {
+          setStatus("Refus d'envoi des identifiants sur une URL non-HTTPS.", "error");
+          return;
+        }
+
         setStatus("Tentative de récupération en cours...", "info");
 
         try {
-          const response = await fetch(parsedData.fulfillmentUrl, { method: "GET" });
+          const response = await fetch(parsedData.fulfillmentUrl, {
+            method: "GET",
+            headers: {
+              ...authHeaders,
+            },
+          });
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
           const blob = await response.blob();
