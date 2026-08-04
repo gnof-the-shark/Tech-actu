@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-08-04T12:01:34.913941+00:00",
+  "updated_at": "2026-08-04T14:39:10.006240+00:00",
   "items": [
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Buckminster Fuller: everything I know",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Nobel Disease",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Mini retirements: like a sabbatical, but much smaller",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -28,26 +48,6 @@
     },
     {
       "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "An Honest Review of AI Programming",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "FFmpeg 9.0",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
