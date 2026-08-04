@@ -1,23 +1,28 @@
 {
-  "updated_at": "2026-08-04T07:18:21.987476+00:00",
+  "updated_at": "2026-08-04T09:59:30.478143+00:00",
   "items": [
+    {
+      "title": "FFmpeg 9.0",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "CollectWise (YC F24) Is Hiring",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Denmark: EVs Make Up 97% of New Private Car Sales in July",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Why did we wait so long for the bicycle? (2019)",
+      "title": "Harness Engineering for Self-Improvement",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
