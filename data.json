@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T06:16:06.841107+00:00",
+  "updated_at": "2026-08-05T09:06:00.943897+00:00",
   "items": [
     {
-      "title": "The sale of Electronic Arts has been finalized",
+      "title": "Rust-lang/rust is adopting an LLM policy",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -13,11 +13,6 @@
     },
     {
       "title": "An SLM trained on $8 ESP32-S3",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
