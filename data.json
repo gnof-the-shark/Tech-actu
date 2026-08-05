@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-05T09:06:00.943897+00:00",
+  "updated_at": "2026-08-05T11:29:19.578959+00:00",
   "items": [
     {
-      "title": "Rust-lang/rust is adopting an LLM policy",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "No Data Centers in My Backyard",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Helsinki Hacker News Meetup",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -13,11 +23,6 @@
     },
     {
       "title": "An SLM trained on $8 ESP32-S3",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: SIMD Viterbi Decoder in Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
