@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-06T09:24:52.932205+00:00",
+  "updated_at": "2026-08-06T11:49:09.711382+00:00",
   "items": [
+    {
+      "title": "How Americans View Capitalism, Socialism and Free Enterprise",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "What I love about Django",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,6 +13,11 @@
     },
     {
       "title": "Let's all meet up in the Y2K",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "I'm switching my phone from Android to Linux",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Muse Code and Muse Spark 1.2",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Zed DeltaDB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
