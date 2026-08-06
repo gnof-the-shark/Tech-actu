@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:32:46.472198+00:00",
+  "updated_at": "2026-08-06T00:56:02.093498+00:00",
   "items": [
     {
       "title": "The title cards in Blade Runner are amazing",
@@ -8,6 +8,11 @@
     },
     {
       "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "I'll be stepping back from leading product for X",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,11 +43,6 @@
     },
     {
       "title": "Zed DeltaDB",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "What happens if you put work into the second dimension?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
