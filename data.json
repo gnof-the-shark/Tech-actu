@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-07T20:58:43.464568+00:00",
+  "updated_at": "2026-08-07T21:34:33.695611+00:00",
   "items": [
+    {
+      "title": "Chasa",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -33,11 +38,6 @@
     },
     {
       "title": "DeepSeek V4 Flash 0731",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
