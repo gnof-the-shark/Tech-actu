@@ -1,18 +1,8 @@
 {
-  "updated_at": "2026-08-07T08:43:07.493904+00:00",
+  "updated_at": "2026-08-07T09:45:59.478459+00:00",
   "items": [
     {
-      "title": "All memory manufactured in 2027 has been sold out",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I won't read LLM authored fiction",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Artificial Intelligence used to design new viruses",
+      "title": "2027 memory capacity is reportedly sold out",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +32,22 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "What is a product?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
