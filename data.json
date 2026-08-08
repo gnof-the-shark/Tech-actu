@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-08T20:47:49.381276+00:00",
+  "updated_at": "2026-08-08T21:16:58.635844+00:00",
   "items": [
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -18,11 +23,6 @@
     },
     {
       "title": "LinkedIn Feed Blocker",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
