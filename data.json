@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-08T23:15:11.311295+00:00",
+  "updated_at": "2026-08-08T23:44:45.157307+00:00",
   "items": [
+    {
+      "title": "My server is a phone now",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Can Intel finally beat ARM on performance per Watt?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Message your other Claude Code sessions",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
