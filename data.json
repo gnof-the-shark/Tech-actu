@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-08T11:43:02.821551+00:00",
+  "updated_at": "2026-08-08T12:19:20.420699+00:00",
   "items": [
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
