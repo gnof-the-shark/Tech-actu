@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:48:11.650127+00:00",
+  "updated_at": "2026-08-08T18:17:53.492337+00:00",
   "items": [
     {
       "title": "LinkedIn Feed Blocker",
@@ -13,6 +13,11 @@
     },
     {
       "title": "Fastmail offers EU data region",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Can Intel finally beat ARM on performance per Watt?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
