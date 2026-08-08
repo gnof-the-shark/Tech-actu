@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:03:11.565852+00:00",
+  "updated_at": "2026-08-08T11:43:02.821551+00:00",
   "items": [
     {
       "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
@@ -18,6 +18,11 @@
     },
     {
       "title": "Europe's free satellite service just made it easier to track wildfires",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
