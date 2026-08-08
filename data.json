@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-08T07:15:12.193260+00:00",
+  "updated_at": "2026-08-08T07:59:41.329799+00:00",
   "items": [
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Mythos social engineering AISI INC-2026-07-28-01",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Assembly Hall of Shame",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
