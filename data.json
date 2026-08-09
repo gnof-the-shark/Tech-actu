@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-09T08:26:22.595227+00:00",
+  "updated_at": "2026-08-09T09:20:04.711816+00:00",
   "items": [
+    {
+      "title": "There Are Magic Hexagons of Every Order",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Dithered QR Codes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
