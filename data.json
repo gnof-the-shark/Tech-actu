@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-09T11:44:43.856451+00:00",
+  "updated_at": "2026-08-09T12:20:31.617096+00:00",
   "items": [
+    {
+      "title": "Everything You Do Is Being Recorded",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "CSS: The bomb inside your inbox",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
