@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T20:52:42.419306+00:00",
+  "updated_at": "2026-08-09T21:19:00.119612+00:00",
   "items": [
     {
       "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
@@ -8,6 +8,11 @@
     },
     {
       "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "OpenChamber: An Agentic Development Environment",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ask HN: What are you working on? (August 2026)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
