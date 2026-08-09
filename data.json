@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-09T16:18:09.586911+00:00",
+  "updated_at": "2026-08-09T16:56:23.559723+00:00",
   "items": [
-    {
-      "title": "Tech sucks: You have to vote with your wallet, or nothing will change",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "Every fast write moves work somewhere else",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -13,6 +8,16 @@
     },
     {
       "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Criminal Deception in Silicon Valley",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "title": "Cool URIs Don't Change (1998)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
