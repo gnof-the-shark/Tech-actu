@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-10T09:47:45.595498+00:00",
+  "updated_at": "2026-08-10T10:53:40.508657+00:00",
   "items": [
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "The Ambition Project",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
