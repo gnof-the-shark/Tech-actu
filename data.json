@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-10T10:53:40.508657+00:00",
+  "updated_at": "2026-08-10T11:38:34.149004+00:00",
   "items": [
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "How We Pushed CDC into Postgres",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Ambition Project",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
