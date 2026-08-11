@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-11T15:16:01.253443+00:00",
+  "updated_at": "2026-08-11T16:10:47.224607+00:00",
   "items": [
+    {
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +17,22 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Manus will return to operating as an independent company",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -28,26 +48,6 @@
     },
     {
       "title": "Nvidia Nemotron 3.5 Lightning",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Nvidia's Risky Business",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
