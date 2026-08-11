@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-11T02:56:11.448956+00:00",
+  "updated_at": "2026-08-11T04:10:44.762329+00:00",
   "items": [
+    {
+      "title": "Hyperspace",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Recycle – Floppydisks",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Rust SIMD on the GPU",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
