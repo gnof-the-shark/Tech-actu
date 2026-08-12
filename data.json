@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-12T05:20:53.496635+00:00",
+  "updated_at": "2026-08-12T06:55:21.432287+00:00",
   "items": [
+    {
+      "title": "llama.cpp",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "The Human Is the Loop",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -33,21 +48,6 @@
     },
     {
       "title": "Emergent Introspective Awareness in Large Language Models",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Compression is prediction",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Making holograms with a pen plotter",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
