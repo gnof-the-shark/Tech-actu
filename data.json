@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-12T21:02:33.890460+00:00",
+  "updated_at": "2026-08-12T22:02:19.302453+00:00",
   "items": [
-    {
-      "title": "Breaking the WAL",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Pixel Watch 5",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
