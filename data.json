@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-08-12T06:55:21.432287+00:00",
+  "updated_at": "2026-08-12T08:07:13.854305+00:00",
   "items": [
+    {
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "LinkedIn CringeBot 3000",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "llama.cpp",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+      "title": "Dropbox is an obvious PE Target?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,17 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "title": "Compression is prediction",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Emergent Introspective Awareness in Large Language Models",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
