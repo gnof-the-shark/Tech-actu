@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:27:40.764286+00:00",
+  "updated_at": "2026-08-12T14:01:34.127381+00:00",
   "items": [
     {
       "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
@@ -12,7 +12,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "I hate packaging my software for Linux",
+      "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "My favorite nonfiction animal books that make you go holy shit",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Facebook is paying controversial creators to produce rage-bait content",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "LinkedIn CringeBot 3000",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "llama.cpp",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
