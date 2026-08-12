@@ -1,13 +1,28 @@
 {
-  "updated_at": "2026-08-12T15:14:35.991505+00:00",
+  "updated_at": "2026-08-12T16:09:06.699368+00:00",
   "items": [
+    {
+      "title": "Grok 4.6",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "License Plate Reader Searches Should Require a Warrant",
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "License plate reader searches should require a warrant",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+      "title": "Tim King, AmigaDOS developer, has died",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "Why Tiny JPEGs Look Different in Chrome",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "My Agent Setup",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Only 2.6% of the most visited websites have fully valid HTML",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
