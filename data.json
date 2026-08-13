@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-13T18:07:19.595985+00:00",
+  "updated_at": "2026-08-13T19:19:40.346200+00:00",
   "items": [
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,6 +27,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "JDK 27 G1/Parallel/Serial GC Changes",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Tocharian Online",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -38,16 +48,6 @@
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I requested a copy of my data from McDonald’s loyalty program",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
