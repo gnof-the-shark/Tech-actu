@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-13T09:35:37.446304+00:00",
+  "updated_at": "2026-08-13T10:39:48.529076+00:00",
   "items": [
+    {
+      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
