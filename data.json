@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-13T20:00:44.134118+00:00",
+  "updated_at": "2026-08-13T21:03:17.908811+00:00",
   "items": [
+    {
+      "title": "NP-Overrated",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "How Gödel's Proof Works",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,12 +27,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
+      "title": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "How Compaction Works in Pi",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "Where did the old web go? We followed 657,607 links to find out",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Gemini 3.7 Flash",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
