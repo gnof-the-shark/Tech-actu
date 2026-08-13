@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-08-13T08:20:20.804090+00:00",
+  "updated_at": "2026-08-13T09:35:37.446304+00:00",
   "items": [
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
