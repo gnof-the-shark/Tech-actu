@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-14T23:35:43.919378+00:00",
+  "updated_at": "2026-08-14T23:53:33.272266+00:00",
   "items": [
+    {
+      "title": "The case for overhauling American science",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Stop sending me huge PRs; a rant",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "RISC-V: They should have known better",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,16 +48,6 @@
     },
     {
       "title": "The American sports plutocracy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Racket v9.3",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
