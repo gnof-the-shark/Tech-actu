@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T08:06:42.151635+00:00",
+  "updated_at": "2026-08-14T09:20:32.823912+00:00",
   "items": [
+    {
+      "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Understanding is the new bottleneck",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
