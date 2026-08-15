@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T19:11:47.626534+00:00",
+  "updated_at": "2026-08-15T19:34:17.616590+00:00",
   "items": [
     {
       "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
@@ -13,6 +13,11 @@
     },
     {
       "title": "Thunderbird's Desktop Calendar Visual Redesign",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "BriskDB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "A Spectre Is Haunting Unicode",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Printytron – Type it. 3D Print it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
