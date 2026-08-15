@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-15T12:11:32.806663+00:00",
+  "updated_at": "2026-08-15T12:58:29.414341+00:00",
   "items": [
     {
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "OpenAI rolling out ads for Europe later this month",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -13,11 +18,6 @@
     },
     {
       "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
