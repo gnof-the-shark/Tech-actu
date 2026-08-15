@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-15T07:55:05.180830+00:00",
+  "updated_at": "2026-08-15T08:12:14.024993+00:00",
   "items": [
-    {
-      "title": "\"That's not SOC 2 compliant\"",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Mole – Deep research agent for your terminal",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
