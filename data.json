@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-15T03:04:53.111122+00:00",
+  "updated_at": "2026-08-15T03:54:11.327168+00:00",
   "items": [
+    {
+      "title": "AI Driven Testing",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,17 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The case for overhauling American science",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Stop sending me huge PRs; a rant",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "RISC-V: They should have known better",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
