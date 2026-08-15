@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-15T11:07:46.688752+00:00",
+  "updated_at": "2026-08-15T11:33:38.553341+00:00",
   "items": [
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,17 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Ploopy A+ Trackball Is Here",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
