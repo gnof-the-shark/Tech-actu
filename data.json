@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-15T15:07:53.649239+00:00",
+  "updated_at": "2026-08-15T15:34:55.764207+00:00",
   "items": [
+    {
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Cloudflare's AI Psychosis",
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
