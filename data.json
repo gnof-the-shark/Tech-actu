@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:41:32.201887+00:00",
+  "updated_at": "2026-08-15T06:15:29.785588+00:00",
   "items": [
     {
       "title": "The other Sean Byrne doesn't exist",
@@ -7,7 +7,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "AI Driven Testing",
+      "title": "The End of Mathematics",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Deltix – AI Driven Testing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,7 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Simplifying and Refactoring Introductory Calculus",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
