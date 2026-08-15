@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:55:15.951472+00:00",
+  "updated_at": "2026-08-15T15:07:53.649239+00:00",
   "items": [
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
@@ -27,6 +27,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Could a computer scientist build a brain?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Brazilian election filter in X For You timeline",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Xorshift Generators",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
