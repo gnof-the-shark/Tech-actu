@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-15T14:39:28.166403+00:00",
+  "updated_at": "2026-08-15T14:55:15.951472+00:00",
   "items": [
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Cloudflare's AI Psychosis",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Writergate: Zig I/O Interface Overhaul",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Xorshift Generators",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Problem",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "T3X/0 a Minimal Procedural Language",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
