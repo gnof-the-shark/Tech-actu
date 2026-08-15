@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-15T05:13:43.213345+00:00",
+  "updated_at": "2026-08-15T05:41:32.201887+00:00",
   "items": [
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "AI Driven Testing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Show HN: Mole – Deep research agent for your terminal",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Racket v9.3",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
