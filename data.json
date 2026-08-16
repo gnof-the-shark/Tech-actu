@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:36:30.070704+00:00",
+  "updated_at": "2026-08-16T22:52:17.784684+00:00",
   "items": [
     {
       "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
@@ -8,6 +8,11 @@
     },
     {
       "title": "Claude Seems Down",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Stop Turning every purchase into a tip request",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Protobuf has LSP support. You're welcome",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "MathCode, Mathematical Coding Agent",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
