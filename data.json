@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-16T11:34:01.631962+00:00",
+  "updated_at": "2026-08-16T11:50:25.777662+00:00",
   "items": [
+    {
+      "title": "Show HN: Grafana agent observability for Hermes Agent",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Software Engineering fundamentals matter more",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
