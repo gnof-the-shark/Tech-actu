@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-16T04:32:43.689916+00:00",
+  "updated_at": "2026-08-16T05:02:52.777483+00:00",
   "items": [
+    {
+      "title": "The quirky personal homepages of programming language creators",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Software Engineering fundamentals matter more",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
