@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-16T18:09:34.210138+00:00",
+  "updated_at": "2026-08-16T18:47:16.645863+00:00",
   "items": [
-    {
-      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Firefox for iOS now has a native adblocker",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Claude: System Prompts",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
