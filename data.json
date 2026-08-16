@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-16T16:09:12.842854+00:00",
+  "updated_at": "2026-08-16T16:42:20.739188+00:00",
   "items": [
     {
       "title": "The weekend is 100 years old",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A True Telnet BBS on a Casio Calculator",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
