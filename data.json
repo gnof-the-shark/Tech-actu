@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-16T19:48:37.874871+00:00",
+  "updated_at": "2026-08-16T20:07:02.208803+00:00",
   "items": [
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Protobuf has LSP support. You're welcome",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
