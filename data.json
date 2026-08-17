@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-17T20:11:24.736659+00:00",
+  "updated_at": "2026-08-17T20:43:14.136318+00:00",
   "items": [
     {
+      "title": "Will you have spent more of your life with computers than your family?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "AI;DR (AI; Didn't Read)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "How I Over-Engineered My Book",
+      "title": "How I over-engineered my book",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Sun Clock",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
