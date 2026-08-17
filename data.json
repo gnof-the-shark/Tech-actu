@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T20:43:14.136318+00:00",
+  "updated_at": "2026-08-17T21:13:01.226486+00:00",
   "items": [
+    {
+      "title": "The Origin of Consciousness (2008)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Will you have spent more of your life with computers than your family?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,27 +22,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "AirTag reveals Amazon is trashing rare books to train AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How I over-engineered my book",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +38,16 @@
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
