@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T10:59:28.444922+00:00",
+  "updated_at": "2026-08-17T11:23:10.299297+00:00",
   "items": [
+    {
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Linear algebra done right",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -42,12 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Reticulum – Decentralized Mesh Network",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "title": "The Life and Death of Direct File [pdf]",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
