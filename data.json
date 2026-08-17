@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T19:54:05.305391+00:00",
+  "updated_at": "2026-08-17T20:11:24.736659+00:00",
   "items": [
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "AirTag reveals Amazon is trashing rare books to train AI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Sun Clock",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
