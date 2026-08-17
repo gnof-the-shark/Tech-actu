@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-17T10:24:17.891630+00:00",
+  "updated_at": "2026-08-17T10:59:28.444922+00:00",
   "items": [
-    {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "Linear algebra done right",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -48,6 +43,11 @@
     },
     {
       "title": "Reticulum – Decentralized Mesh Network",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
