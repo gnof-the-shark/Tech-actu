@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T15:39:43.608385+00:00",
+  "updated_at": "2026-08-17T15:55:58.613985+00:00",
   "items": [
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Ask HN: GitHub employees what's going on? Why?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ask HN: Alternatives to GitHub",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
