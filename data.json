@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-17T05:29:18.327778+00:00",
+  "updated_at": "2026-08-17T06:02:51.200163+00:00",
   "items": [
     {
       "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Strong Gravitational Lensing and Microlensing of Supernovae",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,7 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Applying a photosynthetic process to treat \"dry eye\"",
+      "title": "Applying a photosynthetic process to treat “dry eye”",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
