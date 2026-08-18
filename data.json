@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T08:55:47.308291+00:00",
+  "updated_at": "2026-08-18T09:20:03.676937+00:00",
   "items": [
+    {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Rethinking Database Programming",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -23,11 +28,6 @@
     },
     {
       "title": "How Bluesky draws its logo on screenshots",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "scScript for Linux",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
