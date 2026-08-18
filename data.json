@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T22:41:24.429243+00:00",
+  "updated_at": "2026-08-18T23:10:04.148526+00:00",
   "items": [
+    {
+      "title": "Who owns the code? AI code == no author == no copyright",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "fx :Tiny, open, native coding agent.",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,12 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Find Chicago Parking Cops",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Norway Should Buy OpenAI",
+      "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "How does IKEA come up with names for its products?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: macOS data protection keychain for Electron apps",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
