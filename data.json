@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-17T23:52:23.811937+00:00",
+  "updated_at": "2026-08-18T00:26:43.620616+00:00",
   "items": [
+    {
+      "title": "Cursor Origin",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Puppy PPE",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "How Bluesky draws its logo on screenshots",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,16 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "'Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "How do functions like alloca allocate memory from the stack?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -42,12 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "AI;DR (AI; Didn't Read)",
+      "title": "GitHub degradation affects Cursor Origin, its new Git platform",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "title": "AI;DR (AI; Didn't Read)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
