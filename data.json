@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-18T18:16:49.746328+00:00",
+  "updated_at": "2026-08-18T18:57:17.206658+00:00",
   "items": [
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Show HN: macOS data protection keychain for Electron apps",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +22,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "title": "And then the men with guns tell you to do it anyway",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Claude Code May–August 2026 weekly limits promotion",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Degraded performance for multiple models",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Superpowers, Not Superintelligence",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
