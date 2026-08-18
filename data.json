@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T22:08:44.232167+00:00",
+  "updated_at": "2026-08-18T22:41:24.429243+00:00",
   "items": [
     {
-      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: macOS data protection keychain for Electron apps",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
