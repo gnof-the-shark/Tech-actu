@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T14:22:30.788330+00:00",
+  "updated_at": "2026-08-18T15:04:10.556132+00:00",
   "items": [
+    {
+      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -22,12 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Kent Beck: Composable Tests",
+      "title": "Composable Tests",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
