@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:10:52.908289+00:00",
+  "updated_at": "2026-08-19T23:36:14.075555+00:00",
   "items": [
     {
       "title": "Collaborative Human Agent Protocol (CHAP)",
@@ -7,7 +7,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Anthropic Refuses to Support Agents.md",
+      "title": "Feature Request: Support AGENTS.md",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Digital Immortality",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Rules of good social skills (2025)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Go 1.27",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
