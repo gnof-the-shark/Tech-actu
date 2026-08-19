@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T16:46:39.508598+00:00",
+  "updated_at": "2026-08-19T17:14:30.089248+00:00",
   "items": [
     {
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
@@ -7,7 +7,22 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+      "title": "Extensible Software in the Age of LLMs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "How Kubernetes Probes Work",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "PostgreSQL for Everything",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Devices with GrapheneOS support should be available in 2027",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
