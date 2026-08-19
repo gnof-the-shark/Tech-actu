@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-19T19:15:31.204630+00:00",
+  "updated_at": "2026-08-19T19:40:17.620526+00:00",
   "items": [
     {
-      "title": "Go 1.27 Is Released",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Rules of Good Social Skills",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Go 1.27",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Extensible Software in the age of LLMs",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How Kubernetes Probes Work",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
