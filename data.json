@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T05:05:12.814966+00:00",
+  "updated_at": "2026-08-19T05:46:14.876249+00:00",
   "items": [
     {
       "title": "Palomar: A registry of Lean verified mathematics",
@@ -27,11 +27,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "The Integer",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Cerebras CS-4",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
