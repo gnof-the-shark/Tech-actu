@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-19T16:15:28.819279+00:00",
+  "updated_at": "2026-08-19T16:46:39.508598+00:00",
   "items": [
+    {
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Remote workers report the highest well-being in study of 7,700 employees",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,12 +22,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "title": "Mathematics in the Age of AI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "X262: X264 with MPEG-2 Support",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "title": "Devices with GrapheneOS support should be available in 2027",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
