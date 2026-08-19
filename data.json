@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-19T05:46:14.876249+00:00",
+  "updated_at": "2026-08-19T06:20:17.639347+00:00",
   "items": [
+    {
+      "title": "Bun 1.4 Rust rewrite is not looking good",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Palomar: A registry of Lean verified mathematics",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Cerebras CS-4",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
