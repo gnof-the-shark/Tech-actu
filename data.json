@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-20T15:49:21.542341+00:00",
+  "updated_at": "2026-08-20T16:18:10.797539+00:00",
   "items": [
+    {
+      "title": "How to compromise your system with a job interview",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Generic Methods in Go 1.27",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Clean up Claude 5's token vomit with a separate LLM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,11 +23,6 @@
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Open-source Stripe Connect alternative",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Stwipe Acquires OpenWouter",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Every Model Cheats",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "CI jobs artifacts should not be difficult",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
