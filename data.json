@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:18:10.797539+00:00",
+  "updated_at": "2026-08-20T16:52:55.123696+00:00",
   "items": [
     {
       "title": "How to compromise your system with a job interview",
@@ -27,6 +27,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "Hacking with Claude on a $27 Smart Watch",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Stwipe Acquires OpenWouter",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
