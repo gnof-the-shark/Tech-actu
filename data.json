@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-08-20T15:07:21.142926+00:00",
+  "updated_at": "2026-08-20T15:49:21.542341+00:00",
   "items": [
     {
-      "title": "Slack Code",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+      "title": "Anti-AI fonts are useless and harmful",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "CI jobs artifacts should not be difficult",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "DiffusionGemma Technical Report",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
