@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T08:28:41.577888+00:00",
+  "updated_at": "2026-08-21T09:10:20.859018+00:00",
   "items": [
+    {
+      "title": "Emacs 31.1 will release on 8/24",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ox Alpha",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
