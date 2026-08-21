@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T10:48:52.601998+00:00",
+  "updated_at": "2026-08-21T11:13:50.005124+00:00",
   "items": [
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Small, native web tricks worth remembering",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -38,11 +43,6 @@
     },
     {
       "title": "Micron announces $10B research hub in Boise",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
