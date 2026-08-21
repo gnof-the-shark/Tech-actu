@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-21T19:50:57.512083+00:00",
+  "updated_at": "2026-08-21T20:10:33.465896+00:00",
   "items": [
     {
       "title": "Tumble Forth – from assembly to OS with C compiler",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Death to the Self-Playing Game",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,17 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Galactic Compass 2: now with new augmented reality mode",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Another better lower bound for n=17 square packing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "Kobo can run apps now",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What happens when a GPU reads memory",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
