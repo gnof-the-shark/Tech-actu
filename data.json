@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-21T12:18:44.204488+00:00",
+  "updated_at": "2026-08-21T13:13:11.334087+00:00",
   "items": [
     {
       "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Japan tried to build an operating system for the world, the US intervened",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Seed: Minimal, self-modifying agent harness",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
