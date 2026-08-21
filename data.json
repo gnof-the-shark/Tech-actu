@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:40:24.975798+00:00",
+  "updated_at": "2026-08-21T00:29:36.363582+00:00",
   "items": [
     {
       "title": "Detecting scraper bots through scroll behaviour",
@@ -8,6 +8,11 @@
     },
     {
       "title": "Scientists Release Biggest 2D Map of the Universe",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Citizen Developer",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
