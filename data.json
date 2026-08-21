@@ -1,18 +1,33 @@
 {
-  "updated_at": "2026-08-21T17:46:22.241797+00:00",
+  "updated_at": "2026-08-21T18:17:38.339472+00:00",
   "items": [
+    {
+      "title": "Rebuilding our Electron meeting-recording engine in Swift",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "When the shortage is the strategy",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Another Better Lower Bound for N=17 Square Packing",
+      "title": "Another better lower bound for n=17 square packing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "A self hosted AI software factory",
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Omacom Foundation Launches with $8M",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I Just Want to Search",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
