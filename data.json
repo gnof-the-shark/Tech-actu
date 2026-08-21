@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:55:51.628360+00:00",
+  "updated_at": "2026-08-21T22:11:06.538684+00:00",
   "items": [
     {
       "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -27,6 +27,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Man loses so much weight employer doesn't recognize him",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "What happens when a GPU reads memory",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
