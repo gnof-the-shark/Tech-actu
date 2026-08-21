@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:56:58.617043+00:00",
+  "updated_at": "2026-08-21T08:28:41.577888+00:00",
   "items": [
     {
       "title": "The Lost Treasure of Sid Meier's Pirates",
@@ -32,6 +32,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Micron announces $10B research hub in Boise",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Codex on AWS bedrock bug causing 10x charges",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "Ox Alpha",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The August 17 outage",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
