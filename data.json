@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T18:58:31.496074+00:00",
+  "updated_at": "2026-08-21T19:22:06.069018+00:00",
   "items": [
     {
       "title": "Scientists release biggest 2D map of the universe",
@@ -8,6 +8,11 @@
     },
     {
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "When the shortage is the strategy",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "What happens when a GPU reads memory",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
