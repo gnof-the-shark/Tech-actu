@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:38:28.672937+00:00",
+  "updated_at": "2026-08-21T23:54:56.727618+00:00",
   "items": [
     {
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -27,6 +27,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Rust Glancer",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Tumble Forth – from assembly to OS with C compiler",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Kobo can run apps now",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
