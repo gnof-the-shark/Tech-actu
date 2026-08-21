@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T16:16:41.107117+00:00",
+  "updated_at": "2026-08-21T16:52:06.119165+00:00",
   "items": [
     {
       "title": "Omacom Foundation Launches with $8M",
@@ -7,17 +7,12 @@
       "source": "Flux RSS"
     },
     {
+      "title": "I Just Want to Search",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "My AI agents kept trying to cross red lines, so I wrote them a constitution",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Every shape can be cut exactly in half with one straight line",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: A desktop fly drawn to the scent of vibecode",
+      "title": "Felony Bench",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Felony Bench",
+      "title": "c100",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Code Obfuscation via Local Mixing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
