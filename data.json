@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:11:41.786398+00:00",
+  "updated_at": "2026-08-21T21:38:15.826516+00:00",
   "items": [
     {
       "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -8,11 +8,6 @@
     },
     {
       "title": "Quick impressions: A week of using Codex more than Claude",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "What happens when a GPU reads memory",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
