@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T10:16:43.624599+00:00",
+  "updated_at": "2026-08-21T10:48:52.601998+00:00",
   "items": [
     {
       "title": "Small, native web tricks worth remembering",
@@ -8,11 +8,6 @@
     },
     {
       "title": "Emacs 31.1 will release on 8/24",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Better Batteries",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,6 +38,11 @@
     },
     {
       "title": "Micron announces $10B research hub in Boise",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Codex on AWS bedrock bug causing 10x charges",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
