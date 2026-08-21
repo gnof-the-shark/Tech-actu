@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-21T09:52:05.990650+00:00",
+  "updated_at": "2026-08-21T10:16:43.624599+00:00",
   "items": [
     {
+      "title": "Small, native web tricks worth remembering",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Emacs 31.1 will release on 8/24",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Better Batteries",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Ox Alpha",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The August 17 outage",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
