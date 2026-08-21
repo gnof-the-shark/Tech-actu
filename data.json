@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-21T17:16:50.213642+00:00",
+  "updated_at": "2026-08-21T17:46:22.241797+00:00",
   "items": [
     {
       "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Another Better Lower Bound for N=17 Square Packing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,11 +27,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Three ways to smuggle SQLite into Nix",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Omacom Foundation Launches with $8M",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -37,17 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
