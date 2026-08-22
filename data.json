@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:42:18.101521+00:00",
+  "updated_at": "2026-08-22T10:09:38.283999+00:00",
   "items": [
     {
       "title": "There's no reason for software to be slow anymore",
@@ -32,6 +32,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Scientists release biggest 2D map of the universe",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "OTel isn’t going well",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
