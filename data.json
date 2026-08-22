@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-22T19:12:54.493153+00:00",
+  "updated_at": "2026-08-22T19:34:38.314389+00:00",
   "items": [
+    {
+      "title": "NetBSD and My Life (2005)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Scrap",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -13,11 +23,6 @@
     },
     {
       "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Learning about \"The Unix Time-Sharing System\"",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
