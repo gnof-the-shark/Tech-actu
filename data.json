@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T19:49:48.805443+00:00",
+  "updated_at": "2026-08-22T20:08:00.915088+00:00",
   "items": [
     {
       "title": "NetBSD and My Life (2005)",
@@ -8,6 +8,11 @@
     },
     {
       "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Make your logo extra bright on HDR screens",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
