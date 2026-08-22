@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:54:01.983868+00:00",
+  "updated_at": "2026-08-22T23:08:05.794449+00:00",
   "items": [
     {
       "title": "English ↔ Claudish Translator",
@@ -17,6 +17,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Show HN: Make your logo extra bright on HDR screens",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Why your local LLM feels dumber than it is",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -28,11 +33,6 @@
     },
     {
       "title": "Scrap",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
