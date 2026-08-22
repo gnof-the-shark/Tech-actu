@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-22T15:50:46.254207+00:00",
+  "updated_at": "2026-08-22T16:08:14.188626+00:00",
   "items": [
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Embedded AI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "There's no reason for software to be slow anymore",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
