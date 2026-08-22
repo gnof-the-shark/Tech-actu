@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-22T20:08:00.915088+00:00",
+  "updated_at": "2026-08-22T20:39:30.493195+00:00",
   "items": [
+    {
+      "title": "English ↔ Claudish Translator",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "NetBSD and My Life (2005)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -13,6 +18,11 @@
     },
     {
       "title": "Show HN: Make your logo extra bright on HDR screens",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "A Friendly Introduction to Racket",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "New MCP Roadmap",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
