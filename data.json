@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-22T23:08:05.794449+00:00",
+  "updated_at": "2026-08-22T23:34:24.021170+00:00",
   "items": [
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "English ↔ Claudish Translator",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "A Friendly Introduction to Racket",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "New MCP Roadmap",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
