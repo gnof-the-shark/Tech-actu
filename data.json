@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-23T11:51:06.534386+00:00",
+  "updated_at": "2026-08-23T12:12:40.201720+00:00",
   "items": [
     {
-      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I Dream of Quieter Computing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
