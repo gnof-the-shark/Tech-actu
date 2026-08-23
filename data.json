@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-23T03:15:23.928239+00:00",
+  "updated_at": "2026-08-23T04:01:01.636851+00:00",
   "items": [
+    {
+      "title": "The Art and Beauty of Blade Runner",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "NanoGPT Speedrun Frontier",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Reading Maps – Journeys from fiction drawn on the real world",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
