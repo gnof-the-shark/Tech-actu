@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T08:14:22.155227+00:00",
+  "updated_at": "2026-08-23T08:48:27.189005+00:00",
   "items": [
     {
       "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
@@ -13,6 +13,11 @@
     },
     {
       "title": "The End of an Athlon",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Fast and Hard Code",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "NanoGPT Speedrun Frontier",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "NetBSD and my life (2005)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
