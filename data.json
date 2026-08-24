@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-24T23:34:56.617213+00:00",
+  "updated_at": "2026-08-24T23:51:12.319216+00:00",
   "items": [
+    {
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Moon",
+      "title": "Moon (2024)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,11 +43,6 @@
     },
     {
       "title": "Anger, Anxiety and Agency",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
