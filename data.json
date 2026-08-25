@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-25T23:14:10.642307+00:00",
+  "updated_at": "2026-08-25T23:38:35.831520+00:00",
   "items": [
+    {
+      "title": "More Fucked Today Than Yesterday",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -43,11 +48,6 @@
     },
     {
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
