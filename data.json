@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-25T05:07:58.580499+00:00",
+  "updated_at": "2026-08-25T05:47:45.635802+00:00",
   "items": [
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Headlong: A Microharness for Persistent Agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+      "title": "SiFive's First Server Platform",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
