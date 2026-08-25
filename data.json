@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-25T18:19:23.917357+00:00",
+  "updated_at": "2026-08-25T19:01:02.791133+00:00",
   "items": [
     {
-      "title": "Dolly Parton, US country star, actor and philanthropist, dies aged 80",
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Dolly Parton has died",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -12,7 +17,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,7 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "My Friend Aaron",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "LatticeDB – Like SQLite but for graph databases",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
