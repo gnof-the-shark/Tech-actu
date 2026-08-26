@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-26T00:29:07.029720+00:00",
+  "updated_at": "2026-08-26T02:11:01.447453+00:00",
   "items": [
+    {
+      "title": "The brain may be about to have its Ozempic moment",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Queryable Executables",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -13,11 +23,6 @@
     },
     {
       "title": "Python's pre-declared constants are kinda weird",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "XCancel also down, at least for time being",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Dolly Parton has died",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
