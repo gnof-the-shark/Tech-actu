@@ -1,18 +1,28 @@
 {
-  "updated_at": "2026-08-26T09:23:04.296532+00:00",
+  "updated_at": "2026-08-26T10:08:13.937385+00:00",
   "items": [
     {
-      "title": "The End of Programming",
+      "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Value Classes Still Need Compiler Sympathy",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "RAG Is Simpler Than You Think",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "When str.lower() is a security vulnerability in Python",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
