@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-08-26T11:17:03.185967+00:00",
+  "updated_at": "2026-08-26T11:46:32.733113+00:00",
   "items": [
+    {
+      "title": "Just say something people want",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "U.S. gov't moves to suppress pushback on data centers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "The Feeling of Power (Asimov, 1958)",
+      "title": "It's Not the End of Programming",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
