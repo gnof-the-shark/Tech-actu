@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-30T18:21:28.804150+00:00",
+  "updated_at": "2026-08-30T21:28:28.669970+00:00",
   "items": [
     {
-      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The world may have less time than it thinks on climate change",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -38,16 +48,6 @@
     },
     {
       "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
