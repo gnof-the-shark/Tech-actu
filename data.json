@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-09-03T04:57:44.799863+00:00",
+  "updated_at": "2026-09-03T09:22:32.349174+00:00",
   "items": [
     {
-      "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Embedded Rust RTOS vs. C RTOS",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "title": "Async Rust vs RTOS showdown (2022)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
