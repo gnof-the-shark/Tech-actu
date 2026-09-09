@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-09-09T18:49:00.027618+00:00",
+  "updated_at": "2026-09-09T21:17:44.751680+00:00",
   "items": [
-    {
-      "title": "I Don't Want to Interact with Stochastic Parrots",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Apple Watch Ultra 4",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Apple Unveils iPhone Duo",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
     {
       "title": "iPhone Duo",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -27,17 +12,22 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Apple Watch Ultra 4",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Apple Watch Series 12",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Apple Introduces AirPods 5",
+      "title": "AirPods 5",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -47,7 +37,17 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Growing proof that autonomous cars save lives",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
