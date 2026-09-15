@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-15T21:42:07.832001+00:00",
+  "updated_at": "2026-09-15T23:46:38.405135+00:00",
   "items": [
+    {
+      "title": "Saving Jet Fuel",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -8,11 +13,6 @@
     },
     {
       "title": "Jean-Pierre Serre is 100 years old today",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How much oil-market buffer is left?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,6 +32,11 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Chopping up books when they're physically too big",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -43,11 +48,6 @@
     },
     {
       "title": "An Update on Wayback Machine Access",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
