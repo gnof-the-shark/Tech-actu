@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-09-16T22:25:34.467351+00:00",
+  "updated_at": "2026-09-17T00:51:03.904962+00:00",
   "items": [
     {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Backups Aren't Simple",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -12,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "macOS 27 Golden Gate – Review",
+      "title": "Why Does the Universe Expand?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -28,26 +48,6 @@
     },
     {
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Reverse-engineered Jev-like model",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Vectorized and performance-portable Quicksort (2022)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Training Text-to-Image Models 3.6× Faster",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Small programming tricks",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
