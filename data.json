@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-09-18T19:36:44.439969+00:00",
+  "updated_at": "2026-09-18T21:48:51.610983+00:00",
   "items": [
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "The Implications of Linguistic Illegibility for LLM Security",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "title": "Saving another 100TB of RAM",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -28,26 +48,6 @@
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Systemd is a suite of basic building blocks",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
