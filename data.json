@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-19T11:39:02.864879+00:00",
+  "updated_at": "2026-09-19T14:45:30.202715+00:00",
   "items": [
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "AI-generated posters don’t have to be horrible",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,11 +37,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -33,21 +48,6 @@
     },
     {
       "title": "San Francisco Onion Futures Company",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "SDCC – Small Device C Compiler",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Science Is Open Software",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
