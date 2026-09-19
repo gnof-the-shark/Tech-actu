@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-19T19:32:48.711377+00:00",
+  "updated_at": "2026-09-19T21:41:46.627435+00:00",
   "items": [
+    {
+      "title": "I captured 72 hours of idle Android packets behind pfSense",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "I think you should almost never use AI to write",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,32 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "A graphical desktop for the ZX Spectrum",
+      "title": "Brood War Bench",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "What Zig felt like, coming from Rust",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Tin: full-text search for Postgres",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
