@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-09-19T21:41:46.627435+00:00",
+  "updated_at": "2026-09-19T23:41:21.227226+00:00",
   "items": [
     {
-      "title": "I captured 72 hours of idle Android packets behind pfSense",
+      "title": "Mayday Mysteries",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "English: A vs. An",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,11 +37,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Supabase (YC S20) Is Hiring for OrioleDB",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -38,16 +48,6 @@
     },
     {
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Brood War Bench",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "What Zig felt like, coming from Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
