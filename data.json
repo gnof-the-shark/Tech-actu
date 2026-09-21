@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-20T23:27:13.297292+00:00",
+  "updated_at": "2026-09-21T01:32:48.536629+00:00",
   "items": [
     {
-      "title": "What Happened to the Snowden Archive",
+      "title": "Amiga Unix, Again",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What happened to the Snowden archive",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,7 +37,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+      "title": "Why MCP Was Always a Bad Idea?",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -37,17 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Software Sandboxing: The Basics (2025)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "I turned Jev into a (lousy) chatbot",
+      "title": "Software sandboxing: The basics (2025)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
