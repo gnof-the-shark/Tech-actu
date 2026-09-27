@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-09-26T22:51:31.919116+00:00",
+  "updated_at": "2026-09-27T00:59:00.450507+00:00",
   "items": [
     {
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,7 +22,17 @@
       "source": "Flux RSS"
     },
     {
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The Evolution of Vending Machines",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How to keep enjoying programming in a world of LLMs",
+      "title": "Go Concurrency Distilled",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
