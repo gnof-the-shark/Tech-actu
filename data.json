@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-27T16:58:03.940804+00:00",
+  "updated_at": "2026-09-27T19:56:42.858112+00:00",
   "items": [
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Ember-1",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Don't couple your Go code to GitHub",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "There are no \"rogue\" AI agents",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,7 +37,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "postmarketOS Rebrand: Nura",
+      "title": "PostmarketOS is rebranding as Nura",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,32 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "\"They had no concept of a duty of care to their users.\"",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "10 Tells of a Slop UI",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ten Lines of Code That Changed My World",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
