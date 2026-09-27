@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-09-27T19:56:42.858112+00:00",
+  "updated_at": "2026-09-27T22:42:11.441936+00:00",
   "items": [
     {
+      "title": "Lunar Terminator Paradox",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Imp is a full port of DSPy to the BEAM",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What I did at Recurse Center",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "There are no \"rogue\" AI agents",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "PostmarketOS is rebranding as Nura",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The Normalization of Inexplicable Failures",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
