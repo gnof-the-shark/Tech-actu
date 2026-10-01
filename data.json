@@ -1,18 +1,23 @@
 {
-  "updated_at": "2026-10-01T01:28:55.725500+00:00",
+  "updated_at": "2026-10-01T07:42:09.553401+00:00",
   "items": [
+    {
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "56k.rip – the 1996 dial-up internet experience",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Automating Wi-Fi setup testing on the ESP32",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -23,11 +28,6 @@
     },
     {
       "title": "Gemini 4 Argon",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "CS240 AI Cheating Retrospective",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
