@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-10-09T01:22:32.241495+00:00",
+  "updated_at": "2026-10-09T07:57:42.623507+00:00",
   "items": [
     {
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What should we tell our students?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Reducing undefined behavior in the C language",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,37 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Spinal: A near-instant, predictive surface for any codebase",
+      "title": "Bevy 0.20",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "The value of not getting to the point (2015)",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Theranos.world",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
