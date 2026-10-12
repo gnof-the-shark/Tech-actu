@@ -1,18 +1,43 @@
 {
-  "updated_at": "2026-10-12T01:52:29.483220+00:00",
+  "updated_at": "2026-10-12T08:08:45.925474+00:00",
   "items": [
     {
+      "title": "Postgres isn't slow, your storage is",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Crest – an Arc-inspired open-source browser for Mac",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Doory – Open-Source Canva",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
       "title": "Local Indexing to reduce tool calling and token usage",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "HashiCorp archives the Boundary open source repo",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,32 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Governments are mishandling the affordability crisis",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Illustration Beyond Proof",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Fingerprints Are the New Cookies",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Google is illegaly cutting forest to build data centers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
