@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:04:58.539778+00:00",
+  "updated_at": "2026-10-17T23:07:49.309231+00:00",
   "items": [
     {
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
@@ -12,12 +12,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Pattern Matching Beats Narrative Reasoning",
+      "title": "Pattern matching beats narrative reasoning",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "OpenCode Hacked: User credentials leaked",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Solar surpasses nuclear power globally for first time",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
