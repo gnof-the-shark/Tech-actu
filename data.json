@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-17T23:07:49.309231+00:00",
+  "updated_at": "2026-10-18T01:02:28.779208+00:00",
   "items": [
+    {
+      "title": "JDK 28",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Pattern matching beats narrative reasoning",
+      "title": "Microsoft and CMU team up to train early career software engineers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -32,11 +32,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Development statistics for the 7.2 kernel",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Gold is now the top U.S. export",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -48,6 +43,11 @@
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
