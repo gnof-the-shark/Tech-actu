@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-10-18T21:31:14.985893+00:00",
+  "updated_at": "2026-10-18T23:35:18.523039+00:00",
   "items": [
     {
-      "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -22,11 +37,6 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Mitos editor is a fork of Helix",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Namecheap just seized and disabled all my domains",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
@@ -38,16 +48,6 @@
     },
     {
       "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
