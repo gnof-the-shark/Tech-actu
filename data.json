@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-10-19T19:56:27.890991+00:00",
+  "updated_at": "2026-10-19T23:12:12.875415+00:00",
   "items": [
     {
-      "title": "Towards Company World Models",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "One Hash Bloom Filters",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "The End of Rationing",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -12,17 +27,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Open-source early-reading reader with phonics help",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Mercury 3: Diffusion at scale",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +47,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
