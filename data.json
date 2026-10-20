@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-20T17:17:47.249818+00:00",
+  "updated_at": "2026-10-20T20:38:19.104333+00:00",
   "items": [
+    {
+      "title": "On AI writing",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "SimCity, but with Permits",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "What shall I teach my son?",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -12,12 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Making a VGA Driver in SystemVerilog",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,27 +42,12 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Facebook now charging to post more than 2 links a month",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
