@@ -1,13 +1,18 @@
 {
-  "updated_at": "2026-10-22T02:03:02.592407+00:00",
+  "updated_at": "2026-10-22T07:35:15.547533+00:00",
   "items": [
     {
-      "title": "The era of speedball capitalism has dawned",
+      "title": "OpenAI CLI",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "When Do We Become the Person We Ought to Be?",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -17,37 +22,32 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
       "title": "There isn't an easy exploit for this PHP vulnerability",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Railway Security Disclosure",
+      "title": "Postgres recovery_prefetch can cause outages",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "title": "Security Disclosure",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Claude Duet",
+      "title": "Rust Style Guide",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "GitLab critical patch release",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
