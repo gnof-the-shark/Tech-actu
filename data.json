@@ -1,13 +1,28 @@
 {
-  "updated_at": "2026-10-24T12:02:03.209901+00:00",
+  "updated_at": "2026-10-24T15:57:17.100922+00:00",
   "items": [
+    {
+      "title": "FreeDNS",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Node.js Vulnerability Blog",
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -33,21 +48,6 @@
     },
     {
       "title": "How close can pure functional programming get to C?",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "How Block Blast harvests its players for ad money",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Apple Security Research Device",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
