@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-26T23:09:47.423555+00:00",
+  "updated_at": "2026-10-27T02:04:40.503204+00:00",
   "items": [
+    {
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
@@ -17,17 +22,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "CorridorKey 2.0",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Magic state cultivation on a superconducting quantum processor",
+      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +43,11 @@
     },
     {
       "title": "GPT-6.1 Terra",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
