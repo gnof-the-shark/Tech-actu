@@ -1,18 +1,23 @@
 {
-  "updated_at": "2026-10-28T01:50:12.107014+00:00",
+  "updated_at": "2026-10-28T07:35:02.021223+00:00",
   "items": [
+    {
+      "title": "Artificial Analysis Intelligence Index v5",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Git for the US Code",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "title": "Hunger beats tenure: Advice for junior engineers",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -27,7 +32,7 @@
       "source": "Flux RSS"
     },
     {
-      "title": "Hex Raises $100M",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -43,11 +48,6 @@
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Discord will soon let anyone find public server messages through Google",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
