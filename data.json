@@ -1,38 +1,28 @@
 {
-  "updated_at": "2026-10-30T22:41:35.005492+00:00",
+  "updated_at": "2026-10-31T01:54:00.045213+00:00",
   "items": [
+    {
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Linode Security Incident",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Archive of our own (AO3) hacked",
+      "title": "AO3 Down for Maintenance",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
       "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "An Arrogant Way of Killing (2016)",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -48,6 +38,16 @@
     },
     {
       "title": "Infinite Mac: BeOS",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "A Pickpocket's Guide to New York",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "Bunny CDN Security Incident",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
