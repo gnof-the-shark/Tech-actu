@@ -1,23 +1,18 @@
 {
-  "updated_at": "2026-10-31T01:54:00.045213+00:00",
+  "updated_at": "2026-10-31T07:36:20.994228+00:00",
   "items": [
+    {
+      "title": "Tell HN: Scribd Breached",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
     {
       "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Linode Security Incident",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
-      "source": "Flux RSS"
-    },
-    {
-      "title": "AO3 Down for Maintenance",
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
@@ -42,12 +37,17 @@
       "source": "Flux RSS"
     },
     {
-      "title": "A Pickpocket's Guide to New York",
+      "title": "My favourite PowerMac is a Nintendo Wii",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     },
     {
-      "title": "Bunny CDN Security Incident",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
+      "source": "Flux RSS"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
       "summary": "Sujet technologique en tendance. Résumé IA indisponible temporairement.",
       "source": "Flux RSS"
     }
